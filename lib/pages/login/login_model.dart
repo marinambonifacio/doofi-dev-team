@@ -6,14 +6,15 @@ import 'package:flutter/material.dart';
 class LoginModel extends FlutterFlowModel<LoginWidget> {
   ///  State fields for stateful widgets in this page.
 
+  final formKey = GlobalKey<FormState>();
   // State field(s) for TextField widget.
   FocusNode? textFieldFocusNode1;
   TextEditingController? textController1;
+  late bool passwordVisibility;
   String? Function(BuildContext, String?)? textController1Validator;
   // State field(s) for TextField widget.
   FocusNode? textFieldFocusNode2;
   TextEditingController? textController2;
-  late bool passwordVisibility;
   String? Function(BuildContext, String?)? textController2Validator;
 
   @override

@@ -678,8 +678,9 @@ class _PerfilDeboraWidgetState extends State<PerfilDeboraWidget> {
                                     padding: EdgeInsetsDirectional.fromSTEB(
                                         0.0, 0.0, 16.0, 35.0),
                                     child: FFButtonWidget(
-                                      onPressed: () {
-                                        print('ButtonEmail pressed ...');
+                                      onPressed: () async {
+                                        await launchURL(
+                                            'mailto:mendesdebora490@gmail.com');
                                       },
                                       text: '   E-mail    ',
                                       options: FFButtonOptions(
@@ -779,8 +780,9 @@ class _PerfilDeboraWidgetState extends State<PerfilDeboraWidget> {
                                     padding: EdgeInsetsDirectional.fromSTEB(
                                         0.0, 0.0, 16.0, 0.0),
                                     child: FFButtonWidget(
-                                      onPressed: () {
-                                        print('ButtonLinkedIn pressed ...');
+                                      onPressed: () async {
+                                        await launchURL(
+                                            ' https://www.linkedin.com/in/d%C3%A9ora-mendes-de-oliveira-santos-87bba5313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app');
                                       },
                                       text: '      LinkedIn',
                                       options: FFButtonOptions(

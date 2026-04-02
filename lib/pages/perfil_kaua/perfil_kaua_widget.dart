@@ -678,8 +678,9 @@ class _PerfilKauaWidgetState extends State<PerfilKauaWidget> {
                                     padding: EdgeInsetsDirectional.fromSTEB(
                                         0.0, 0.0, 16.0, 35.0),
                                     child: FFButtonWidget(
-                                      onPressed: () {
-                                        print('ButtonEmail pressed ...');
+                                      onPressed: () async {
+                                        await launchURL(
+                                            'mailto:okauapereirapro@gmail.com');
                                       },
                                       text: '   E-mail    ',
                                       options: FFButtonOptions(
@@ -779,8 +780,9 @@ class _PerfilKauaWidgetState extends State<PerfilKauaWidget> {
                                     padding: EdgeInsetsDirectional.fromSTEB(
                                         0.0, 0.0, 16.0, 0.0),
                                     child: FFButtonWidget(
-                                      onPressed: () {
-                                        print('ButtonLinkedIn pressed ...');
+                                      onPressed: () async {
+                                        await launchURL(
+                                            'https://www.linkedin.com/in/kau%C3%A3-pereira-rocha-467286400/');
                                       },
                                       text: '      LinkedIn',
                                       options: FFButtonOptions(

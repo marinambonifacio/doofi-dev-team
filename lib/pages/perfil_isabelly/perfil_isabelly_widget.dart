@@ -510,7 +510,8 @@ class _PerfilIsabellyWidgetState extends State<PerfilIsabellyWidget> {
                               alignment: AlignmentDirectional(0.81, 0.54),
                               child: FFButtonWidget(
                                 onPressed: () async {
-                                  await launchURL('');
+                                  await launchURL(
+                                      'https://github.com/isabellysgarcia');
                                 },
                                 text: 'GitHub',
                                 options: FFButtonOptions(
@@ -874,7 +875,7 @@ class _PerfilIsabellyWidgetState extends State<PerfilIsabellyWidget> {
                                             ),
                                             onPressed: () async {
                                               await launchURL(
-                                                  'https://github.com/ coloque seu github');
+                                                  'https://github.com/isabellysgarcia');
                                             },
                                           ),
                                         ),
@@ -900,8 +901,7 @@ class _PerfilIsabellyWidgetState extends State<PerfilIsabellyWidget> {
                                               size: 30.0,
                                             ),
                                             onPressed: () async {
-                                              await launchURL(
-                                                  'https://www.linkedin.com/in/ coloque o seu linkedln');
+                                              await launchURL('');
                                             },
                                           ),
                                         ),

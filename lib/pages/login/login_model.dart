@@ -7,27 +7,64 @@ class LoginModel extends FlutterFlowModel<LoginWidget> {
   ///  State fields for stateful widgets in this page.
 
   final formKey = GlobalKey<FormState>();
-  // State field(s) for TextField widget.
-  FocusNode? textFieldFocusNode1;
-  TextEditingController? textController1;
-  late bool passwordVisibility;
-  String? Function(BuildContext, String?)? textController1Validator;
-  // State field(s) for TextField widget.
-  FocusNode? textFieldFocusNode2;
-  TextEditingController? textController2;
-  String? Function(BuildContext, String?)? textController2Validator;
+  // State field(s) for TextFieldemail widget.
+  FocusNode? textFieldemailFocusNode;
+  TextEditingController? textFieldemailTextController;
+  String? Function(BuildContext, String?)?
+      textFieldemailTextControllerValidator;
+  String? _textFieldemailTextControllerValidator(
+      BuildContext context, String? val) {
+    if (val == null || val.isEmpty) {
+      return 'Digite seu e-mail is required';
+    }
+
+    if (val.length < 10) {
+      return 'Requires at least 10 characters.';
+    }
+    if (val.length > 80) {
+      return 'Maximum 80 characters allowed, currently ${val.length}.';
+    }
+
+    return null;
+  }
+
+  // State field(s) for TextFieldsenha widget.
+  FocusNode? textFieldsenhaFocusNode;
+  TextEditingController? textFieldsenhaTextController;
+  late bool textFieldsenhaVisibility;
+  String? Function(BuildContext, String?)?
+      textFieldsenhaTextControllerValidator;
+  String? _textFieldsenhaTextControllerValidator(
+      BuildContext context, String? val) {
+    if (val == null || val.isEmpty) {
+      return 'Digite sua senha is required';
+    }
+
+    if (val.length < 5) {
+      return 'Requires at least 5 characters.';
+    }
+    if (val.length > 8) {
+      return 'Maximum 8 characters allowed, currently ${val.length}.';
+    }
+
+    return null;
+  }
 
   @override
   void initState(BuildContext context) {
-    passwordVisibility = false;
+    textFieldemailTextControllerValidator =
+        _textFieldemailTextControllerValidator;
+    textFieldsenhaVisibility = false;
+    textFieldsenhaTextControllerValidator =
+        _textFieldsenhaTextControllerValidator;
   }
 
   @override
   void dispose() {
-    textFieldFocusNode1?.dispose();
-    textController1?.dispose();
+    textFieldemailFocusNode?.dispose();
+    textFieldemailTextController?.dispose();
 
-    textFieldFocusNode2?.dispose();
-    textController2?.dispose();
+    textFieldsenhaFocusNode?.dispose();
+    textFieldsenhaTextController?.dispose();
   }
 }

@@ -678,8 +678,9 @@ class _PerfilIsabellyWidgetState extends State<PerfilIsabellyWidget> {
                                     padding: EdgeInsetsDirectional.fromSTEB(
                                         0.0, 0.0, 16.0, 35.0),
                                     child: FFButtonWidget(
-                                      onPressed: () {
-                                        print('ButtonEmail pressed ...');
+                                      onPressed: () async {
+                                        await launchURL(
+                                            'mailto:soaresizzy5@gmail.com');
                                       },
                                       text: '   E-mail    ',
                                       options: FFButtonOptions(
@@ -728,8 +729,9 @@ class _PerfilIsabellyWidgetState extends State<PerfilIsabellyWidget> {
                                     padding: EdgeInsetsDirectional.fromSTEB(
                                         0.0, 35.0, 16.0, 0.0),
                                     child: FFButtonWidget(
-                                      onPressed: () {
-                                        print('ButtonGitHub pressed ...');
+                                      onPressed: () async {
+                                        await launchURL(
+                                            'https://github.com/isabellysgarcia');
                                       },
                                       text: '    GitHub   ',
                                       options: FFButtonOptions(
@@ -778,8 +780,9 @@ class _PerfilIsabellyWidgetState extends State<PerfilIsabellyWidget> {
                                     padding: EdgeInsetsDirectional.fromSTEB(
                                         0.0, 0.0, 16.0, 0.0),
                                     child: FFButtonWidget(
-                                      onPressed: () {
-                                        print('ButtonLinkedIn pressed ...');
+                                      onPressed: () async {
+                                        await launchURL(
+                                            'https://www.linkedin.com/in/isabelly-soares-garcia-a519b427b/');
                                       },
                                       text: '      LinkedIn',
                                       options: FFButtonOptions(
@@ -901,7 +904,8 @@ class _PerfilIsabellyWidgetState extends State<PerfilIsabellyWidget> {
                                               size: 30.0,
                                             ),
                                             onPressed: () async {
-                                              await launchURL('');
+                                              await launchURL(
+                                                  'https://www.linkedin.com/in/isabelly-soares-garcia-a519b427b/');
                                             },
                                           ),
                                         ),

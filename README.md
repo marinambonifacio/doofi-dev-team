@@ -83,17 +83,17 @@ A aplicação contempla desde a entrada do usuário no sistema até sua navegaç
 ## 🖼️ Demonstração do Sistema
 
 <p align="center"> 
-    <img width="250" alt="image splash" src="https://github.com/user-attachments/assets/c5065429-a41b-4d66-b158-990fdec2ae58" />
-    <img width="250" alt="image bem vindo" src="https://github.com/user-attachments/assets/2e811cbf-f78f-4dba-ba47-13887f89e690" />
-    <img width="250"  alt="image cadastro" src="https://github.com/user-attachments/assets/a6cf8beb-b5d5-40b1-9349-c1b8468e4ee4" />
-    <img width="250" alt="image login" src="https://github.com/user-attachments/assets/12855095-5014-47cf-9556-ffda290100d6" />
-    <img width="250"  alt="image home" src="https://github.com/user-attachments/assets/4d950fb9-0a07-49f2-b0e8-f8e10dd6b2f9" />
-    <img width="250" alt="image drawer" src="https://github.com/user-attachments/assets/85ef5a31-bcd6-4964-8474-197abc4bff21" />
-    <img width="250" alt="image debora" src="https://github.com/user-attachments/assets/cbcd4ff5-69e2-409a-bab8-2a668aaf96a2" />
-    <img width="250" alt="image isabelly" src="https://github.com/user-attachments/assets/5309c7b8-cd05-4581-a616-29280a9c242a" />
-    <img width="250" alt="image kauã" src="https://github.com/user-attachments/assets/3f7fe7c8-4ed5-4ce6-ad2f-38d5ae9d9a00" />
-    <img width="250" alt="image Marina" src="https://github.com/user-attachments/assets/34afc855-355e-4c07-9f33-2f161ae1e3aa" />
-    <img width="250" alt="image sarah" src="https://github.com/user-attachments/assets/8785fb38-9215-4986-917a-aeadf5a9bc11" />
+    <img width="250" height: 500 alt="image splash" src="https://github.com/user-attachments/assets/c5065429-a41b-4d66-b158-990fdec2ae58" />
+    <img width="250" height: 500  alt="image bem vindo" src="https://github.com/user-attachments/assets/2e811cbf-f78f-4dba-ba47-13887f89e690" />
+    <img width="250" height: 500  alt="image cadastro" src="https://github.com/user-attachments/assets/a6cf8beb-b5d5-40b1-9349-c1b8468e4ee4" />
+    <img width="250" height: 500 alt="image login" src="https://github.com/user-attachments/assets/12855095-5014-47cf-9556-ffda290100d6" />
+    <img width="250" height: 500  alt="image home" src="https://github.com/user-attachments/assets/4d950fb9-0a07-49f2-b0e8-f8e10dd6b2f9" />
+    <img width="250" height: 500 alt="image drawer" src="https://github.com/user-attachments/assets/85ef5a31-bcd6-4964-8474-197abc4bff21" />
+    <img width="250" height: 500 alt="image debora" src="https://github.com/user-attachments/assets/cbcd4ff5-69e2-409a-bab8-2a668aaf96a2" />
+    <img width="250" height: 500 alt="image isabelly" src="https://github.com/user-attachments/assets/5309c7b8-cd05-4581-a616-29280a9c242a" />
+    <img width="250" height: 500 alt="image kauã" src="https://github.com/user-attachments/assets/3f7fe7c8-4ed5-4ce6-ad2f-38d5ae9d9a00" />
+    <img width="250" height: 500 alt="image Marina" src="https://github.com/user-attachments/assets/34afc855-355e-4c07-9f33-2f161ae1e3aa" />
+    <img width="250" height: 500 alt="image sarah" src="https://github.com/user-attachments/assets/8785fb38-9215-4986-917a-aeadf5a9bc11" />
 
 
 

@@ -1,6 +1,3 @@
-Perfeito, vou deixar ele com cara de projeto profissional de verdade (nível portfólio 👇)
-
----
 
 # 📱 Sistema de Autenticação e Navegação - FlutterFlow
 

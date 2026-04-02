@@ -126,11 +126,14 @@ Este projeto foi desenvolvido com finalidade educacional, visando o aprendizado 
 
 ## 👨‍💻 Desenvolvedores
 
-- [Sarah Oliveira Ferreira](https://github.com/sarah-oferreira)
+
 - [Débora Mendes](https://github.com/debora490-lang)
-- [Marina Miranda Bonifácio](https://github.com/marinambonifacio)
-- [Kauã](https://github.com/oKauaPereira)
 - [Isabelly](https://github.com/isabellysgarcia)
+- [Kauã](https://github.com/oKauaPereira)
+- [Marina Miranda Bonifácio](https://github.com/marinambonifacio)
+- [Sarah Oliveira Ferreira](https://github.com/sarah-oferreira)
+
+  
 ---
 
 ## ⭐ Considerações Finais

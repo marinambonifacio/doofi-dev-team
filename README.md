@@ -5,7 +5,7 @@ Perfeito, vou deixar ele com cara de projeto profissional de verdade (nível por
 # 📱 Sistema de Autenticação e Navegação - FlutterFlow
 
 <p align="center">
-  <img src="https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/doofi-hp4864/assets/kiarios87kzg/Logo_(2).png<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/7e5f9b24-fb9b-4778-85af-c523b88d2b60" />
+  <img src="https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/doofi-hp4864/assets/kiarios87kzg/Logo_(2).png"<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/7e5f9b24-fb9b-4778-85af-c523b88d2b60" />
 " width="150"/>
 </p>
 

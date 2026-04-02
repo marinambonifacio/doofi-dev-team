@@ -73,7 +73,7 @@ Além disso:
 | Home | Página principal do sistema |
 | Perfis | Informações de cada integrante |
 
-📊 **Total de páginas:** 6 telas principais
+📊 **Total de páginas:** 11 telas principais
 
 ---
 

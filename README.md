@@ -40,7 +40,8 @@ A aplicação contempla desde a entrada do usuário no sistema até sua navegaç
 ✔ Menu lateral (Drawer Navigation)  
 ✔ Tela de perfil dos integrantes  
 ✔ Navegação entre telas  
-✔ Validação de campos (email e senha)  
+✔ Validação de todos os campos do formulário
+✔ Layout responsivo (adaptação para diferentes tamanhos de tela) 
 ✔ Interações dinâmicas (exibição de senha, feedback visual)  
 
 ---
@@ -87,7 +88,7 @@ Além disso:
 ## 🔐 Validações Implementadas
 
 * Campos obrigatórios  
-* Verificação de formato de e-mail  
+* Validação de todos os campos do formulário 
 * Definição de tamanho mínimo de senha  
 * Feedback visual para o usuário  
 

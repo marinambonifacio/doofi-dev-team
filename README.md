@@ -23,8 +23,8 @@ A aplicação contempla desde a entrada do usuário no sistema até sua navegaç
 | Nome | Responsabilidades |
 |------|------------------|
 | **Débora Mendes** | Design da tela de Bem-vindo e da Home (página inicial), com foco em experiência do usuário e desenvolvimento de funcionalidades interativas |
-| **Isabelly** | Implementação do menu lateral (Drawer) e design da interface |
-| **Kauã** | Desenvolvimento das telas de Cadastro e Login, incluindo design e estruturação dos formulários |
+| **Isabelly Garcia** | Implementação do menu lateral (Drawer) e design da interface |
+| **Kauã Rocha** | Desenvolvimento das telas de Cadastro e Login, incluindo design e estruturação dos formulários |
 | **Marina Miranda Bonifácio** | Design da Home, estruturação e desenvolvimento da tela de perfil de cada integrante, além da padronização visual |
 | **Sarah Oliveira Ferreira** | Desenvolvimento da Splash Screen, criação da logo, design da aplicação, estruturação do sistema e implementação da navegação entre páginas |
 

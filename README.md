@@ -122,7 +122,6 @@ Este projeto foi desenvolvido com finalidade educacional, visando o aprendizado 
 * Experiência do usuário (UX)  
 
 ---
----
 
 ## 👨‍💻 Desenvolvedores
 

@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre o Projeto
 
-Este projeto foi desenvolvido com foco na construção de interfaces modernas e na simulação de um fluxo completo de autenticação de usuários utilizando a plataforma **FlutterFlow**.
+Este projeto foi realizado com foco na construção de interfaces modernas e na simulação de um fluxo de navegação de usuários desenvolvido na plataforma **FlutterFlow**.
 
 A aplicação contempla desde a entrada do usuário no sistema até sua navegação interna, aplicando boas práticas de UX (experiência do usuário), validação de dados e organização estrutural de páginas.
 
@@ -22,11 +22,11 @@ A aplicação contempla desde a entrada do usuário no sistema até sua navegaç
 
 | Nome | Responsabilidades |
 |------|------------------|
-| **Débora Mendes** | Design da tela de Bem-vindo e da Home (página inicial), com foco em experiência do usuário e desenvolvimento de funcionalidades interativas |
-| **Isabelly Garcia** | Implementação do menu lateral (Drawer) e design da interface |
-| **Kauã Rocha** | Desenvolvimento das telas de Cadastro e Login, incluindo design e estruturação dos formulários |
-| **Marina Miranda Bonifácio** | Design da Home, estruturação e desenvolvimento da tela de perfil de cada integrante, além da padronização visual |
-| **Sarah Oliveira Ferreira** | Desenvolvimento da Splash Screen, criação da logo, design da aplicação, estruturação do sistema e implementação da navegação entre páginas |
+| **Débora Mendes** | Design da tela de Bem-vindo, Cadastro e Login, navegação do menu lateral (Drawer) para as páginas de perfil e desenvolvimento de funcionalidades interativas |
+| **Isabelly Garcia** | Implementação, estruturação e criação de design do menu lateral (Drawer) para implantação de funcionalidades interativas |
+| **Kauã Rocha** | Criação das telas de Cadastro e Login, incluindo design e estruturação dos formulários |
+| **Marina Miranda Bonifácio** | Design da Home, estruturação, design e funcionalidade da tela de perfil de cada integrante, além da criação e aplicação da identidade visual do projeto |
+| **Sarah Oliveira Ferreira** | Desenvolvimento da Splash Screen, criação da logo, criação da identidade visual, estruturação do sistema e implementação da navegação entre páginas | 
 
 ---
 
@@ -38,10 +38,10 @@ A aplicação contempla desde a entrada do usuário no sistema até sua navegaç
 ✔ Sistema de Cadastro  
 ✔ Tela Home (Página principal)  
 ✔ Menu lateral (Drawer Navigation)  
-✔ Tela de perfil dos integrantes  
+✔ Tela de perfil de cada integrante  
 ✔ Navegação entre telas  
-✔ Validação de todos os campos do formulário
-✔ Layout responsivo (adaptação para diferentes tamanhos de tela) 
+✔ Validação de todos os campos do formulário   
+✔ Layout responsivo (adaptação para diferentes tamanhos de tela)  
 ✔ Interações dinâmicas (exibição de senha, feedback visual)  
 
 ---
@@ -127,16 +127,14 @@ Este projeto foi desenvolvido com finalidade educacional, visando o aprendizado 
 ## 👨‍💻 Desenvolvedores
 
 
-- [Débora Mendes](https://github.com/debora490-lang)
-- [Isabelly Garcia](https://github.com/isabellysgarcia)
-- [Kauã Rocha](https://github.com/oKauaPereira)
+- [Débora Mendes de Oliveira Santos](https://github.com/debora490-lang)
+- [Isabelly Soares Garcia](https://github.com/isabellysgarcia)
+- [Kauã Pereira Rocha](https://github.com/oKauaPereira)
 - [Marina Miranda Bonifácio](https://github.com/marinambonifacio)
 - [Sarah Oliveira Ferreira](https://github.com/sarah-oferreira)
 
-  
----
 
 ## ⭐ Considerações Finais
 
-O projeto demonstra a capacidade de desenvolver aplicações funcionais utilizando ferramentas **No Code**, com foco em organização, usabilidade, estrutura e clareza de fluxo de navegação.
+O projeto demonstra a capacidade de desenvolver aplicações funcionais utilizando ferramentas **No Code**, com foco em design, organização, usabilidade, estrutura e clareza de fluxo de navegação.
 
